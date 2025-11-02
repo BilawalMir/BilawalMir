@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bilawal Mir  
+# Hi there! 👋 I'm Bilawal Ijaz  
 
 👀 **Interests:** AI/ML, Deep Learning, and Data Science  
 🌱 **Currently Learning:** Deep Learning concepts and techniques  
