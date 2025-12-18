@@ -3,7 +3,7 @@
 👀 **Interests:** AI/ML, Deep Learning, and Data Science  
 🌱 **Currently Learning:** Deep Learning concepts and techniques  
 💬 **Looking to Collaborate On:** Deep Learning and AI/ML projects  
-📫 **How to Reach Me:** [bilawal.ijaz@ajku.edu.pk].  
+📫 **How to Reach Me:** [bilawal.ijaz@uajk.edu.pk].  
 😄 **Pronouns:** He/Him  
 
 ⚡ **Fun Fact:** I’m passionate about applying AI to solve real-world problems.  
